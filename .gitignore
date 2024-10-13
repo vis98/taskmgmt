@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+.DS_Store
